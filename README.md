@@ -1,6 +1,6 @@
 # coding_challenge-26 - Helping with the COVID 19 pandemic
 
-That last month has been a strange one in our world. It seems the entire world is coming together to try and tackle the COVID 19 outbreak. In this month's challenge, we are brinigng together all the brains in the ZTM community to see if we can build something useful to tackl this worldwide problem!
+That last month has been a strange one in our world. It seems the entire world is coming together to try and tackle the COVID 19 outbreak. In this month's challenge, we are brinigng together all the brains in the ZTM community to see if we can build something useful to tackle this worldwide problem!
 
 You can work on a project individually or in a group and you can use the below free APIs and data sources to try and tackle a problem of your choice:
 
