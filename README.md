@@ -31,99 +31,100 @@ Some ideas include:
 ## Submissions:
 Check out all of the submissions below! Well done everyone!
 
-tomyshoam#3287
-https://coronappv2.now.sh/
-----  
-yaseen aiman mohammed#0556
-https://github.com/yaseenaiman/COVID19_detector
-----  
-sivads#1836
-https://github.com/OptumCS/coronav2
-----  
-deepak#8554
-https://covid19.dpk.now.sh/
-----  
-BetterTaterTot#0286
-https://github.com/Kshitij-joshi/COVID19-AWARENESS
-----  
-Bra Steve#7656
-https://github.com/LonwaboMvovo/coronavirussa
-----  
-samsam#2732
-https://github.com/ctq3103/covid19-webapp
-https://laughing-shaw-5cdcbd.netlify.com/
-----  
-Ashish Yadav#6889
-https://www.stayhomestaysafe.ml/
-----  
-richardanlezarklee#6613
-https://github.com/richardanlezarklee/landing-page-project
-----  
-Cunning Rabbit 🐰#9834
-Github Pages
-https://zrebec.github.io/PersonalNurseAssistant/#aside
-----  
-amirdbt#0966
-https://amirdbt-covid-19.netlify.app/
-----  
-Fantasy#1014
-Github Pages
-https://mudhol.github.io/covid19site/
-----  
-Islombek#0035
-https://github.com/Akhmedov-I/andrei-s-questions
-----  
-tpartridge#1861
-Github Pages
-https://tpartridge1.github.io/Covid-19-Tracker/
-----  
-vaishali#6574
-Github Pages
-https://vaishali1331.github.io/
-----  
-Tanya#0323
-https://github.com/tanyamiranda/covid19-by-state
-Github Pages
-https://tanyamiranda.github.io/covid19-by-state/
-​----  
-Freeda#9704
-https://github.com/freedamoore/covid-19-tracker
-Github Pages
-https://freedamoore.github.io/covid-19-tracker/
-​----  
-Carlos Hernández#8767
-Github Pages
-https://carls13.github.io/covid-tracker/
-https://github.com/Carls13/covid-tracker
-----  
-Luqman#0031
-https://github.com/luqmanshof/coding_challenge-26
-----  
-Anette#4560
-Github Pages
-https://redsquirrrel.github.io/covid-tracker/
-https://github.com/RedSquirrrel/covid-tracker
-----  
-GlutenFree318#3462
-https://github.com/Camilo318/COVID19
-https://blohshtracker.netlify.app/
-----  
-Wayne#0759
-https://covid19-ww-ol-app.herokuapp.com/
-https://github.com/WecanWang/covid-19
-----  
-Proxy\ware#5615
-https://github.com/mefaba/yetanothercovidtracker
-https://yetanothercovidtracker.netlify.app/
-----  
-cazabe21#2539
-https://github.com/cazabe/covidTrackerChallenge
-Github Pages
-https://cazabe.github.io/covidTrackerChallenge/
-----  
-PrinceSumberia#1780
-https://github.com/PrinceSumberia/covid-19-tracker
-https://covidindiatracker.netlify.app/
+tomyshoam#3287  
+https://coronappv2.now.sh/  
+----    
+yaseen aiman mohammed#0556  
+https://github.com/yaseenaiman/COVID19_detector  
+----    
+sivads#1836  
+https://github.com/OptumCS/coronav2  
+----    
+deepak#8554  
+https://covid19.dpk.now.sh/  
+----    
+BetterTaterTot#0286  
+https://github.com/Kshitij-joshi/COVID19-AWARENESS  
+----    
+Bra Steve#7656  
+https://github.com/LonwaboMvovo/coronavirussa  
+----    
+samsam#2732  
+https://github.com/ctq3103/covid19-webapp  
+https://laughing-shaw-5cdcbd.netlify.com/  
+----    
+Ashish Yadav#6889  
+https://www.stayhomestaysafe.ml/  
+----    
+richardanlezarklee#6613  
+https://github.com/richardanlezarklee/landing-page-project  
+----    
+Cunning Rabbit 🐰#9834  
+Github Pages  
+https://zrebec.github.io/PersonalNurseAssistant/#aside  
+----    
+amirdbt#0966  
+https://amirdbt-covid-19.netlify.app/  
+----    
+Fantasy#1014  
+Github Pages  
+https://mudhol.github.io/covid19site/  
+----    
+Islombek#0035  
+https://github.com/Akhmedov-I/andrei-s-questions  
+----    
+tpartridge#1861  
+Github Pages  
+https://tpartridge1.github.io/Covid-19-Tracker/  
+----    
+vaishali#6574  
+Github Pages  
+https://vaishali1331.github.io/  
+----    
+Tanya#0323  
+https://github.com/tanyamiranda/covid19-by-state  
+Github Pages  
+https://tanyamiranda.github.io/covid19-by-state/  
+----    
+Freeda#9704  
+https://github.com/freedamoore/covid-19-tracker  
+Github Pages  
+https://freedamoore.github.io/covid-19-tracker/  
+----    
+Carlos Hernández#8767  
+Github Pages  
+https://carls13.github.io/covid-tracker/  
+https://github.com/Carls13/covid-tracker  
+----    
+Luqman#0031  
+https://github.com/luqmanshof/coding_challenge-26  
+----    
+Anette#4560  
+Github Pages  
+https://redsquirrrel.github.io/covid-tracker/  
+https://github.com/RedSquirrrel/covid-tracker  
+----    
+GlutenFree318#3462  
+https://github.com/Camilo318/COVID19  
+https://blohshtracker.netlify.app/  
+----    
+Wayne#0759  
+https://covid19-ww-ol-app.herokuapp.com/  
+https://github.com/WecanWang/covid-19  
+----    
+Proxy\ware#5615  
+https://github.com/mefaba/yetanothercovidtracker  
+https://yetanothercovidtracker.netlify.app/  
+----    
+cazabe21#2539  
+https://github.com/cazabe/covidTrackerChallenge  
+Github Pages  
+https://cazabe.github.io/covidTrackerChallenge/  
+----    
+PrinceSumberia#1780  
+https://github.com/PrinceSumberia/covid-19-tracker  
+https://covidindiatracker.netlify.app/  
+
 
 ## The Rules Are:
 
