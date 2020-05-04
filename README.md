@@ -124,6 +124,7 @@ https://cazabe.github.io/covidTrackerChallenge/
 PrinceSumberia#1780  
 https://github.com/PrinceSumberia/covid-19-tracker  
 https://covidindiatracker.netlify.app/  
+----
 
 
 ## The Rules Are:
